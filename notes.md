@@ -1,0 +1,2 @@
+- when two vowels go walking the first does the talking and usually says its own name
+- when y is at the end of the word, it sometimes acts like a vowel

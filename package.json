@@ -1,0 +1,12 @@
+{
+  "name": "sight-words",
+  "version": "1.0.0",
+  "description": "sight words practice deck",
+  "scripts": {
+    "start": "mdx-deck sightwords.mdx"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^4.1.1"
+  }
+}
